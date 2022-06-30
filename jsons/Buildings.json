@@ -17,11 +17,11 @@
 	{
 		"name": "Faith increase",
 		"gold": 999,
-		"faith": 50000000,
+		"faith": 50,
 		"cost": 99999999999,
 		"hurryCostModifier": 99999999999,
 		"maintenance": 999,
-		"uniques": ["Hidden when religion is disabled"]
+		"uniques": ["Hidden when religion is disabled", "[+99999]% Strength <vs [All] units>", "No movement cost to pillage", "[10] additional attacks per turn", "[100] Movement", "May not generate great prophet equivalents naturally"]
 	},
 	{
 		"name": "Increase research speed",
