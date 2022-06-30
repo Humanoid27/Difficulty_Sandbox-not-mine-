@@ -9,7 +9,7 @@
 	{
 		"name": "Cultural increase",
 		"gold": 999,
-		"culture": 50,
+		"culture": 50000000,
 		"cost": 99999999999,
 		"hurryCostModifier": 99999999999,
 		"maintenance": 999
@@ -17,7 +17,7 @@
 	{
 		"name": "Faith increase",
 		"gold": 999,
-		"faith": 50,
+		"faith": 50000000,
 		"cost": 99999999999,
 		"hurryCostModifier": 99999999999,
 		"maintenance": 999,
@@ -26,7 +26,7 @@
 	{
 		"name": "Increase research speed",
 		"gold": 999,
-		"science": 30,
+		"science": 300000000,
 		"cost": 99999999999,
 		"hurryCostModifier": 99999999999,
 		"maintenance": 999
@@ -34,7 +34,7 @@
 	{
 		"name": "Food increase",
 		"gold": 999,
-		"food": 50,
+		"food": 500000000,
 		"cost": 99999999999,
 		"hurryCostModifier": 99999999999,
 		"maintenance": 999
@@ -50,8 +50,8 @@
 	{
 		"name": "Increased city defense",
 		"gold": 999,
-		"cityStrength": 100,
-		"cityHealth": 1000,
+		"cityStrength": 1000,
+		"cityHealth": 100000,
 		"cost": 99999999999,
 		"hurryCostModifier": 99999999999,
 		"maintenance": 999
